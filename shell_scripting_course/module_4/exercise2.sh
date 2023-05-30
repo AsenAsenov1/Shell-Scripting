@@ -20,4 +20,4 @@ do
     mv $CURRENT_FILE $NEW_FILE && echo "Renamig ${CURRENT_FILE} to ${NEW_FILE}."
 done
 
-
+exit 0
