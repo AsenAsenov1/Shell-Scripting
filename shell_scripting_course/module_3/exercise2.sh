@@ -8,6 +8,8 @@ function file_count() {
     echo "    ${NUMBER_OF_FILES}"
 }
 
+exit 0
+
 # CALL THE FUNCTION
 file_count /etc
 file_count /var
